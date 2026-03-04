@@ -7,7 +7,7 @@
 // @author       Lukpeluk
 // @namespace    lukpeluk
 // @icon         https://immich.app/favicon.ico
-// @homepageURL  https://github.com/lukpeluk/immich-storage-to-profile/issues
+// @homepageURL  https://github.com/lukpeluk/immich-storage-to-profile
 // @supportURL   https://github.com/lukpeluk/immich-storage-to-profile/issues
 // @updateURL    https://raw.githubusercontent.com/lukpeluk/immich-storage-to-profile/main/immich-storage-to-profile.user.js
 // @downloadURL  https://raw.githubusercontent.com/lukpeluk/immich-storage-to-profile/main/immich-storage-to-profile.user.js
