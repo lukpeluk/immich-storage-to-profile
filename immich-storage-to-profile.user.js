@@ -3,7 +3,8 @@
 // @description  Moves the immich storage indicator to the profile menu, like it is in the mobile version.
 // @match        https://<your-immich-instance>/*
 // @match        https://demo.immich.app/*
-// @version      1.0.1
+// @version      1.0.2
+// @license      AGPL-3.0-only
 // @author       Lukpeluk
 // @namespace    lukpeluk
 // @icon         https://immich.app/favicon.ico
